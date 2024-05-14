@@ -47,6 +47,7 @@ Technologies I work with:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3776AB?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![RESTful APIs](https://img.shields.io/badge/-RESTFUL_APIs-000000?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-3776AB?logo=flutter&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-3776AB?logo=fastapi&logoColor=white&style=for-the-badge)
 
 ## Social Media
 
