@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 # ¡Hi! 👋 I'm [Adriano González]
 
-¡Welcome to my GitHub profile! I'm a cuban developer passionate about technology, software and mathematics. Here you will find information about me, my skills, projects and more.
+¡Welcome to my GitHub profile! I'm a developer passionate about technology, software and mathematics. Here you will find information about me, my skills, projects and more.
 
 ## Something about me
 
