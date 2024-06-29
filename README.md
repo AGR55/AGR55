@@ -65,13 +65,10 @@ Technologies I work with:
 
 ---
 
-<hr/>
-
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=LeivSuaxy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=AGR55&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<hr/>
 
 Thank you for visiting my profile! If you have any questions or suggestions, please do not hesitate to contact me. I hope to collaborate on interesting projects and learn together. Let's do amazing things!
 
