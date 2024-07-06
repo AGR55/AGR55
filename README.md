@@ -63,7 +63,7 @@ Technologies I work with:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGR55&layout=compact&theme=radical)](https://github.com/AGR55)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AGR55&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AGR55)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
