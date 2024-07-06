@@ -59,9 +59,9 @@ Technologies I work with:
 
 ## Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGR55&show_icons=true&theme=high-contrast)](https://github.com/AGR55)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGR55&show_icons=true&theme=onedark)](https://github.com/AGR55)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGR55&layout=compact&theme=high-contrast)](https://github.com/AGR55)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGR55&layout=compact&theme=onedark)](https://github.com/AGR55)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AGR55&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
