@@ -33,7 +33,7 @@ Technologies I work with:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MicrosoftSQL](https://img.shields.io/badge/-MicrosoftSQL-336791?logo=microsoftsql&logoColor=white&style=for-the-badge)
+![sqlite](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
 
 ### Tools and Others
 
