@@ -16,14 +16,11 @@ Technologies I work with:
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?logo=typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/-CSharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-Cpp-3776AB?logo=cpp&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/-Dart-3776AB?logo=dart&logoColor=white&style=for-the-badge)
 
 ### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/-Django-3776AB?logo=django&logoColor=white&style=for-the-badge)
@@ -31,7 +28,6 @@ Technologies I work with:
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![sqlite](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
 
@@ -39,15 +35,6 @@ Technologies I work with:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
-### Tecnologies in Progress
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-3776AB?logo=kubernetes&logoColor=white&style=for-the-badge)
-![RESTful APIs](https://img.shields.io/badge/-RESTFUL_APIs-000000?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-3776AB?logo=flutter&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-3776AB?logo=fastapi&logoColor=white&style=for-the-badge)
 
 ## Social Media
 
@@ -62,8 +49,6 @@ Technologies I work with:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGR55&show_icons=true&theme=gotham)](https://github.com/AGR55)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGR55&layout=compact&theme=gotham)](https://github.com/AGR55)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AGR55&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
