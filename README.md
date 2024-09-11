@@ -35,6 +35,9 @@ Technologies I work with:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-007ACC?logo=visual-studio&logoColor=white&style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ_Idea-007ACC?logo=intellijidea&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/-Pycharm-007ACC?logo=pycharm&logoColor=white&style=for-the-badge)
 
 ## Social Media
 
