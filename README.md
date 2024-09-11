@@ -44,19 +44,6 @@ Technologies I work with:
 [![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=instagram&logoColor=white&style=for-the-badge)]([enlace-a-tu-instagram](https://www.instagram.com/adrigr_55/))
 
 
-## Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGR55&show_icons=true&theme=gotham)](https://github.com/AGR55)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGR55&layout=compact&theme=gotham)](https://github.com/AGR55)
-
----
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=AGR55&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
 Thank you for visiting my profile! If you have any questions or suggestions, please do not hesitate to contact me. I hope to collaborate on interesting projects and learn together. Let's do amazing things!
 
 ---
