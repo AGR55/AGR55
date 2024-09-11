@@ -41,10 +41,10 @@ Technologies I work with:
 
 ## Social Media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([enlace-a-tu-linkedin](https://www.linkedin.com/in/adriano-gonzalez-reyes-093882298/))
-[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat)]([enlace-a-tu-twitter](https://x.com/AdrianoR52440/))
-[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?logo=facebook&logoColor=white&style=flat)]([enlace-a-tu-facebook](https://www.facebook.com/adriano.gonzalez.5220665))
-[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=instagram&logoColor=white&style=flat)]([enlace-a-tu-instagram](https://www.instagram.com/adrigr_55/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adriano-gonzalez-reyes-093882298/)
+[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat)](https://x.com/AdrianoR52440/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/adriano.gonzalez.5220665)
+[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/adrigr_55/)
 
 
 Thank you for visiting my profile! If you have any questions or suggestions, please do not hesitate to contact me. I hope to collaborate on interesting projects and learn together. Let's do amazing things!
