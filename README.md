@@ -39,6 +39,12 @@ Technologies I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_Idea-007ACC?logo=intellijidea&logoColor=white&style=flat)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-007ACC?logo=pycharm&logoColor=white&style=flat)
 
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr5526&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
 ## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adriano-gonzalez-reyes-093882298/)
