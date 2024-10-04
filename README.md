@@ -25,6 +25,7 @@ Technologies I work with:
 ### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/-Django-3776AB?logo=django&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/-Astro-DD0031?logo=astro&logoColor=white&style=for-the-badge)
 
 ### Databases
 
