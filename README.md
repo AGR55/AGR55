@@ -1,5 +1,4 @@
-<!-- Encabezado -->
-# ¡Hi! 👋 I'm [Adriano González]
+# ¡Hi! 👋 I'm Adriano González
 
 ¡Welcome to my GitHub profile! I'm a developer passionate about technology, software and mathematics. Here you will find information about me, my skills, projects and more.
 
@@ -11,8 +10,6 @@
 - 🧠 Interested in Artificial Intelligence.
 
 ## Skills
-
-Technologies I work with:
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
@@ -41,13 +38,13 @@ Technologies I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_Idea-007ACC?logo=intellijidea&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-007ACC?logo=pycharm&logoColor=white&style=for-the-badge)
 
-![AGR55's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
 <br>
+
+![AGR55's github stats](https://github-readme-stats.vercel.app/api?username=AGR55&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr55&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
-## Social Media
+### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/adriano-gonzalez-reyes-093882298/)
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/AdrianoR52440/)
@@ -56,5 +53,3 @@ Technologies I work with:
 
 
 Thank you for visiting my profile! If you have any questions or suggestions, please do not hesitate to contact me. I hope to collaborate on interesting projects and learn together. Let's do amazing things!
-
----
