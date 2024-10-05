@@ -37,9 +37,8 @@
 
 <br>
 
-![AGR55's github stats](https://github-readme-stats.vercel.app/api?username=AGR55&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr55&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![](https://raw.githubusercontent.com/AGR55/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AGR55/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Social Media
 
