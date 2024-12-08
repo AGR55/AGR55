@@ -37,7 +37,6 @@
 ![sqlite](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
 
 <br>
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AGR55&show_icons=true&theme=dark)
 
 ![](https://raw.githubusercontent.com/AGR55/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AGR55/github-stats/master/generated/languages.svg#gh-dark-mode-only)
