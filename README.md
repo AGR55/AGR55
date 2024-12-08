@@ -12,23 +12,22 @@
 ## Skills
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-Typescript-F7DF1E?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![CSharp](https://img.shields.io/badge/-CSharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c#" />
 
-### Tools, Frameworks and Libraries
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-3776AB?logo=django&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![Astro](https://img.shields.io/badge/-Astro-DD0031?logo=astro&logoColor=white&style=for-the-badge)
-![NextJS](https://img.shields.io/badge/-Nextjs-DD0031?logo=next&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-DD0031?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/-Tailwind-DD0031?logo=tailwind&logoColor=white&style=for-the-badge)
+### Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=django,angular,astro,nextjs,react,tailwind" />
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=postgresql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,webstorm,figma,postman" />
+
+### Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 
 <br>
 
