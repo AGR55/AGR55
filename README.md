@@ -12,14 +12,14 @@
 ## Skills
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c#" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cs" />
 
 ### Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=django,angular,astro,nextjs,react,tailwind" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
 ### Tools
 
