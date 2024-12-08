@@ -22,19 +22,16 @@
 
 ### Tools, Frameworks and Libraries
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-007ACC?logo=visual-studio&logoColor=white&style=for-the-badge)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ_Idea-007ACC?logo=intellijidea&logoColor=white&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/-Pycharm-007ACC?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-3776AB?logo=django&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/-Astro-DD0031?logo=astro&logoColor=white&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/-Nextjs-DD0031?logo=next&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-DD0031?logo=react&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-DD0031?logo=tailwind&logoColor=white&style=for-the-badge)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![sqlite](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
 
 <br>
 
