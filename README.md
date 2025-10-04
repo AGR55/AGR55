@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cs" />
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=django,angular,astro,nextjs,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,astro,nextjs,react,tailwind" />
 
 ### Databases
 
