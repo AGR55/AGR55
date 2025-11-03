@@ -12,7 +12,7 @@
 ## Skills
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cs" />
+<img src="https://skillicons.dev/icons?i=python,cs" />
 
 ### Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,nextjs,react,tailwind" />
@@ -20,14 +20,6 @@
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,webstorm,figma,postman" />
-
-### Systems
-
-<img src="https://skillicons.dev/icons?i=linux,windows" />
 
 <br>
 
